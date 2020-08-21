@@ -1,3 +1,3 @@
-# oware
+# opware
 
 openwrt packages warehouse
